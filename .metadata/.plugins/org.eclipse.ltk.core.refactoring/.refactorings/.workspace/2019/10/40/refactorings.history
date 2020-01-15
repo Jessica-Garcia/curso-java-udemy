@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;exemplo-cap-14-herança&apos; to &apos;exemplo-cap-14-herança-polimorfismo&apos;&#x0D;&#x0A;- Original element: &apos;exemplo-cap-14-herança&apos;&#x0D;&#x0A;- Renamed element: &apos;exemplo-cap-14-herança&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;exemplo-cap-14-herança&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=exemplo-cap-14-herança" name="exemplo-cap-14-herança-polimorfismo" references="true" stamp="1570050306174" version="1.0"/>
+</session>

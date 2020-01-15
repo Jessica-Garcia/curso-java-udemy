@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;entities.Oder&apos; to &apos;Order&apos;&#x0D;&#x0A;- Original project: &apos;exemplo-cap-13-enumeracoes&apos;&#x0D;&#x0A;- Original element: &apos;entities.Oder&apos;&#x0D;&#x0A;- Renamed element: &apos;entities.Order&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Oder&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;entities{Oder.java[Oder" matchStrategy="1" name="Order" qualified="false" references="true" similarDeclarations="false" stamp="1569605948638" textual="false" version="1.0"/>
+</session>

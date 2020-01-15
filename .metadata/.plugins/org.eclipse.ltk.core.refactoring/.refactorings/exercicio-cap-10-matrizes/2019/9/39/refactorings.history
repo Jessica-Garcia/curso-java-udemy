@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;application.MatrizTest&apos; to &apos;Matriz2Test&apos;&#x0D;&#x0A;- Original project: &apos;exercicio-cap-10-matrizes&apos;&#x0D;&#x0A;- Original element: &apos;application.MatrizTest&apos;&#x0D;&#x0A;- Renamed element: &apos;application.Matriz2Test&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MatrizTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;application{MatrizTest.java[MatrizTest" matchStrategy="1" name="Matriz2Test" qualified="false" references="true" similarDeclarations="false" stamp="1569521621381" textual="false" version="1.0"/>
+</session>
